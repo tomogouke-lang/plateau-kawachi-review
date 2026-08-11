@@ -1,0 +1,31 @@
+(function(){
+  "use strict";
+
+  window.PDSKawachiConfig={
+    availability:{
+      sheetId:"13End1Rr9ZXNWNpDDo_nRVKu46NHmcYjDBddbF74oZwM",
+      gid:250282962,
+      openDays:["月","水","金"]
+    },
+    pricing:{
+      lunchFee:600,
+      snackFee:50,
+      bathFee:45,
+      trainingFee:63,
+      transportDeduction:53,
+      monthlyAddOns:68,
+      preventiveVisits:{preventive1:4,preventive2:8},
+      daycare:{
+        short3:{bathIncluded:false,trainingIncluded:true,fees:{1:[531,601,671,738,809],2:[1062,1202,1342,1476,1618],3:[1593,1803,2013,2214,2427]}},
+        short4:{bathIncluded:false,trainingIncluded:true,fees:{1:[554,627,700,771,845],2:[1108,1254,1400,1542,1690],3:[1662,1881,2100,2313,2535]}},
+        short5:{bathIncluded:false,trainingIncluded:true,fees:{1:[847,981,1116,1248,1384],2:[1694,1962,2232,2496,2768],3:[2541,2943,3348,3744,4152]}},
+        short6:{bathIncluded:false,trainingIncluded:true,fees:{1:[871,1009,1149,1288,1427],2:[1742,2018,2298,2576,2854],3:[2613,3027,3447,3864,4281]}},
+        standard7:{bathIncluded:false,trainingIncluded:true,fees:{1:[955,1109,1269,1427,1584],2:[1910,2218,2538,2854,3168],3:[2865,3327,3807,4281,4752]}}
+      },
+      preventive:{
+        preventive1:{1:2068,2:4136,3:6204},
+        preventive2:{1:4119,2:8238,3:12357}
+      }
+    }
+  };
+})();
