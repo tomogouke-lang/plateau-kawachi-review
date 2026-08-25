@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="description" content="白山市河内町の定員10名のデイサービス、プラトーケアセンター白山河内店。月・水・金に機能訓練、食事、入浴、送迎を行います。">
+  <title>プラトーケアセンター白山河内店｜月・水・金のデイサービス</title>
+  <link rel="stylesheet" href="assets/kawachi.css">
+</head>
+<body>
+  <a class="skip" href="#main">本文へ移動</a>
+  <div class="draft-banner">公開前の叩き台｜内容確認用です</div>
+  <nav class="site-nav" aria-label="ページ内ナビゲーション">
+    <div class="inner nav-row">
+      <a class="brand" href="#top"><small>PDS PLATEAU</small>白山河内店</a>
+      <div class="nav-links">
+        <a href="#fit">選ばれる理由</a>
+        <a href="#availability">空き状況</a>
+        <a href="#price">料金</a>
+        <a class="nav-cta" href="tel:0762207139">見学を相談</a>
+      </div>
+    </div>
+  </nav>
+
+  <main id="main">
+    <header id="top" class="hero">
+      <div class="hero-media"><img src="assets/kawachi/exterior.jpg" alt="山を背景にした木造のプラトーケアセンター白山河内店の外観"></div>
+      <div class="inner hero-copy">
+        <div class="hero-paper">
+          <span class="eyebrow">HAKUSAN KAWACHI / MON WED FRI</span>
+          <h1>月・水・金。<br>河内で通える一日を。</h1>
+          <p class="hero-lead">白山市河内町にある、定員10名の地域密着型デイサービスです。機能訓練、昼食、入浴、ご自宅までの送迎を、一日の中で組み合わせます。</p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="tel:0762207139">見学・体験を相談する</a>
+            <a class="btn btn-secondary" href="#availability">空き状況と料金を見る</a>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <div class="fact-strip" aria-label="河内店の基本情報">
+      <div class="inner fact-strip-grid">
+        <div class="fact-strip-item"><span>営業日</span><strong>月・水・金</strong></div>
+        <div class="fact-strip-item"><span>定員</span><strong>10名</strong></div>
+        <div class="fact-strip-item"><span>提供時間</span><strong>9:30〜16:30</strong></div>
+        <div class="fact-strip-item"><span>サービス</span><strong>要介護・介護予防</strong></div>
+      </div>
+    </div>
+
+    <section id="fit" class="mist">
+      <div class="inner">
+        <div class="section-head">
+          <div><span class="eyebrow">A SMALL PLACE IN KAWACHI</span><h2>遠くの大きな施設より、<br>河内の小さな場所へ。</h2></div>
+          <p>通う場所を決めるとき、設備の数だけでなく、人数や距離が合うことも大切です。河内店は10名の規模で、必要なことを一日にまとめます。</p>
+        </div>
+        <div class="fit-layout">
+          <article class="fit-main">
+            <span class="eyebrow" style="color:#F2C99F">このような方の選択肢です</span>
+            <h3>少人数で過ごしながら、食事も入浴も済ませたい方。</h3>
+            <ul>
+              <li>大人数のにぎやかさより、10名の規模が合う方</li>
+              <li>白山市の対象地域から、身近な場所へ通いたい方</li>
+              <li>機能訓練、昼食、入浴を一日にまとめたい方</li>
+              <li>月・水・金の決まったリズムをつくりたい方</li>
+            </ul>
+          </article>
+          <div class="fit-side">
+            <article class="fit-card"><strong>一つの空間で。</strong><p>食卓と機能訓練の機器が同じフロアにあります。移動を重ねず、その日の流れを組み立てます。</p></article>
+            <article class="fit-card"><strong>必要なことを、一日に。</strong><p>ご自宅までの送迎、昼食、入浴、機能訓練に対応しています。希望する内容は見学時にご確認ください。</p></article>
+          </div>
+        </div>
+        <div class="mismatch"><strong>合わないかもしれない方</strong><br>土日や火・木の利用を優先する方、営業時間を通じて常に一対一の付き添いが必要な方には、別の選択肢が合うことがあります。</div>
+      </div>
+    </section>
+
+    <section>
+      <div class="inner room-story">
+        <div class="room-photo"><img src="assets/kawachi/activity-floor-privacy.png" alt="少人数の利用者と職員が同じフロアで過ごす河内店の室内"></div>
+        <div class="room-copy room-copy-wrap">
+          <span class="vertical-label">顔が見える距離</span>
+          <span class="eyebrow">ONE ROOM</span>
+          <h2>少人数の中で、<br>声を掛け合える。</h2>
+          <p>食卓と機能訓練の機器が同じフロアにあり、利用者さんと職員がお互いの様子を見ながら過ごします。</p>
+          <p>定員は10名です。活動内容は、その日の体調やケアプランに合わせて決めます。</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="mist">
+      <div class="inner">
+        <div class="section-head"><div><span class="eyebrow">LIFE AT KAWACHI</span><h2>食事、休息、運動を、<br>その方のペースで。</h2></div><p>一日を同じ活動だけで埋めず、食事や休息をはさみながら無理なく過ごします。</p></div>
+        <div class="scene-grid">
+          <figure class="scene-card"><img src="assets/kawachi/meal-support-ai.jpeg" alt="職員が高齢の利用者の食事を支援する様子"><figcaption><strong>食事</strong><span>昼食は1食600円。食事の様子を見ながらお手伝いします。</span></figcaption></figure>
+          <figure class="scene-card"><img src="assets/kawachi/relaxation-ai.png" alt="利用者がリラクゼーション機器を使いながら休憩する様子"><figcaption><strong>休息・リラクゼーション</strong><span>活動の合間に、座ってゆっくり過ごす時間をつくります。</span></figcaption></figure>
+          <figure class="scene-card"><img src="assets/kawachi/training-ai.png" alt="高齢の利用者が機能訓練機器で運動する様子"><figcaption><strong>機能訓練</strong><span>座って取り組める運動を、その日の状態に合わせて行います。</span></figcaption></figure>
+        </div>
+        <p class="photo-note">人物の顔はプライバシー保護のため加工しています。</p>
+      </div>
+    </section>
+
+    <section class="wood-soft">
+      <div class="inner bath-layout">
+        <div class="bath-copy">
+          <span class="eyebrow">BATH AT DAY SERVICE</span>
+          <h2>家でのお風呂が難しくなったら。</h2>
+          <p>浴室には手すり、入浴用のいす、浴槽へ入るための段差と手すりがあります。入浴の可否や介助方法は、見学・契約前に確認します。</p>
+          <div class="bath-points">
+            <div class="bath-point"><strong>入浴に対応</strong><span>希望日とお風呂の空きを確認します</span></div>
+            <div class="bath-point"><strong>1割45円／日</strong><span>7時間以上8時間未満の料金に別途加算します</span></div>
+          </div>
+        </div>
+        <div class="bath-photo"><img src="assets/kawachi/bathroom-v2.jpg" alt="手すり、入浴用いす、浴槽を備えた河内店の浴室"></div>
+      </div>
+    </section>
+
+    <section id="day">
+      <div class="inner">
+        <div class="section-head"><div><span class="eyebrow">A DAY</span><h2>河内店での一日</h2></div><p>サービス提供時間は9時30分から16時30分です。活動や入浴の順番は、その日の体調や利用内容で変わります。</p></div>
+        <div class="day-flow">
+          <div class="day-step"><time>朝</time><strong>ご自宅へお迎え</strong><span>通常の実施地域を確認して送迎します。</span></div>
+          <div class="day-step"><time>9:30〜</time><strong>体調確認</strong><span>その日の過ごし方を決めます。</span></div>
+          <div class="day-step"><time>午前</time><strong>機能訓練・入浴</strong><span>内容と順番は個別に確認します。</span></div>
+          <div class="day-step"><time>昼</time><strong>昼食</strong><span>食費は1食600円です。</span></div>
+          <div class="day-step"><time>16:30</time><strong>ご自宅へお送り</strong><span>一日の様子をお伝えします。</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="availability" class="mist">
+      <div class="inner">
+        <div class="section-head"><div><span class="eyebrow">AVAILABILITY</span><h2>月・水・金の空き状況</h2></div><p>河内店の入力表から、営業日の施設とお風呂の空きを表示します。利用開始日は電話で最終確認をお願いします。</p></div>
+        <div class="availability-wrap">
+          <table class="availability-table"><thead><tr><th>曜日</th><th>施設の空き</th><th>お風呂の空き</th></tr></thead><tbody id="availabilityBody"></tbody></table>
+          <p id="availabilityMessage" class="availability-message">最新情報を読み込んでいます。</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="price">
+      <div class="inner">
+        <div class="section-head"><div><span class="eyebrow">PRICE</span><h2>1か月の料金の目安</h2></div><p>2026年6月版の重要事項説明書に基づく概算です。通常の提供時間に合わせて7時間以上8時間未満を選択しています。</p></div>
+        <div class="simulator">
+          <div class="sim-panel"><div class="form-grid">
+            <label class="field field-wide">利用区分<select id="serviceType"><option value="daycare">地域密着型通所介護（要介護1〜5）</option><option value="preventive1">介護予防型（週1回）</option><option value="preventive2">介護予防型（週2回）</option></select></label>
+            <label class="field" id="careLevelField">介護度<select id="careLevel"><option value="0">要介護1</option><option value="1">要介護2</option><option value="2">要介護3</option><option value="3">要介護4</option><option value="4">要介護5</option></select></label>
+            <label class="field" id="timeSlotField">利用時間<select id="timeSlot"><option value="short3">3時間以上4時間未満</option><option value="short4">4時間以上5時間未満</option><option value="short5">5時間以上6時間未満</option><option value="short6">6時間以上7時間未満</option><option value="standard7" selected>7時間以上8時間未満</option></select></label>
+            <label class="field">負担割合<select id="burden"><option value="1">1割</option><option value="2">2割</option><option value="3">3割</option></select></label>
+            <label class="field" id="weeklyField">週の利用回数<select id="weekly"><option value="1">週1回</option><option value="2">週2回</option><option value="3" selected>週3回</option></select></label>
+            <label class="field">送迎<select id="transport"><option value="0">往復送迎あり</option><option value="1">片道送迎なし</option><option value="2">往復送迎なし</option></select></label>
+            <label class="check-field"><input id="lunch" type="checkbox" checked> 昼食あり（600円／食）</label>
+            <label class="check-field"><input id="snack" type="checkbox" checked> おやつあり（50円／食）</label>
+            <label class="check-field" id="bathField"><input id="bath" type="checkbox" checked> 入浴あり</label>
+            <label class="check-field" id="trainingField"><input id="training" type="checkbox" checked> 個別機能訓練加算Ⅰイあり</label>
+          </div></div>
+          <aside class="result-panel" aria-live="polite"><h3>1か月の概算</h3><div id="totalPrice" class="total">—</div><ul id="breakdown" class="breakdown"></ul></aside>
+        </div>
+        <div class="notice"><strong>この試算の前提</strong>7時間以上8時間未満の料金表を基準に、入浴介助加算Ⅰは1割45円／日を別加算しています。月単位では個別機能訓練加算Ⅱ23円と科学的介護推進体制加算45円を加えています。実際の請求額は利用日数、加算、端数処理などで変わります。</div>
+      </div>
+    </section>
+
+    <section class="mist">
+      <div class="inner facts-grid">
+        <div class="facts-photo"><img src="assets/kawachi/exterior.jpg" alt="プラトーケアセンター白山河内店の木造外観"></div>
+        <div><span class="eyebrow">INFORMATION</span><h2 style="font:900 36px/1.4 var(--pds-font-ui);margin:8px 0 24px;color:var(--forest-deep)">見学前の基本情報</h2>
+          <table class="fact-table"><tbody>
+            <tr><th>事業所名</th><td>プラトーケアセンター白山河内店</td></tr>
+            <tr><th>サービス</th><td>地域密着型通所介護・介護予防型通所サービス</td></tr>
+            <tr><th>定員</th><td>10名</td></tr>
+            <tr><th>営業日</th><td>月曜日・水曜日・金曜日</td></tr>
+            <tr><th>営業時間</th><td>8:30〜17:30</td></tr>
+            <tr><th>提供時間</th><td>9:30〜16:30</td></tr>
+            <tr><th>所在地</th><td>石川県白山市河内町きりの里62</td></tr>
+            <tr><th>電話</th><td><a href="tel:0762207139">076-220-7139</a></td></tr>
+            <tr><th>見学・相談担当</th><td>宮野</td></tr>
+          </tbody></table>
+          <p class="source-note">出典：河内 密着・予防 重要事項説明書・契約書 2026年6月版</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="contact-band"><div class="inner contact-row"><div><span class="eyebrow" style="color:#F2C99F">VISIT &amp; TRIAL</span><h2>10名の距離感を、見学で確かめてください。</h2><p>希望曜日、入浴、送迎地域、料金もお電話で確認できます。</p></div><div><a class="phone" href="tel:0762207139">076-220-7139</a><br><a href="kawachi-caremanager.html">ケアマネジャー向けページを見る →</a></div></div></section>
+  </main>
+
+  <footer><div class="inner">プラトーケアセンター白山河内店｜公開前の叩き台</div></footer>
+  <script src="assets/facility-tools.js"></script>
+  <script src="assets/kawachi-config.js"></script>
+  <script>PDSFacilityTools.init(PDSKawachiConfig);</script>
+</body>
+</html>
